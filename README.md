@@ -1,5 +1,7 @@
 # Boeing 787-9 and -8
-Wingflex Team freeware 787-9 and -8 for X-Plane and MSFS. Join our discord for updates.
+**WingFlex Studios** is aiming to make a high quality **Boeing 787-9** and **-8** for both the [X-Plane](https://x-plane.com) flight simulator, and the [Microsoft Flight Simulator](https://www.flightsimulator.com/).
 
- **Discord:**
- https://discord.gg/49bDSp4d 
+## Discord
+Do you have any questions? Join our Discord for answers!
+
+[Official WingFlex Studios Discord server](https://discord.gg/49bDSp4d)
