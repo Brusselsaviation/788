@@ -10,10 +10,14 @@ panel3d = true
 panelWidth3d = 2048
 panelHeight3d = 2048
 
-function onModuleInit()
-    print("User is using" + sasl.getXPVersion() + "located at" + sasl.getXPlanePath() "on" + sasl.getOS())
-end
+
 
 components = {
     tools {}
 }
+
+function onModuleInit()
+    print(sasl.getXPVersion())
+    print(sasl.getXPlanePath())
+    print(sasl.getOS())
+end
