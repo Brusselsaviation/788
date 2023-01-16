@@ -1,6 +1,6 @@
 I
 10 Version
-_hobs_time 6452.119306
+_hobs_time 6475.107895
 _livery_req 0
 _track_up_0 0
 _data_fields_0 0
@@ -23,3 +23,10 @@ _filter_rnp_2 0
 _baro_hpa_2 0
 _wind_display_2 0
 _inset_map_2 1
+_dg_lat_adjust_0 0.000000
+_dg_lat_adjust_1 0.000000
+_dg_lat_adjust_2 -19.263762
+_dg_lat_adjust_3 -19.263762
+_dg_lat_adjust_4 -19.263762
+_dg_lat_adjust_5 -19.263762
+atc/_acf_tailnumber_ N068BP

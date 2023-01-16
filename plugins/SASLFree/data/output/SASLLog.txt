@@ -1,0 +1,8 @@
+[BOEING787DREAMLINER INFO]: Initializing...
+[BOEING787DREAMLINER INFO]: Path to module: /Users/duvbobruni/Library/Application Support/Steam/steamapps/common/X-Plane 12/Aircraft/Wingflex/Wingflex-B787-9-B787-8/plugins/SASLFree/data/modules/main.lua
+[BOEING787DREAMLINER INFO]: Loading module...
+[BOEING787DREAMLINER INFO]: [LUA]: loading	module
+[BOEING787DREAMLINER INFO]: Module loaded
+[BOEING787DREAMLINER WARN]: Enable/disable aircraft 3D panel usage explicitly (sasl.options.setAircraftPanelRendering)
+[BOEING787DREAMLINER WARN]: Enable/disable 3D rendering explicitly (sasl.options.set3DRendering)
+[BOEING787DREAMLINER WARN]: Enable/disable interactivity option explicitly (sasl.options.setInteractivity)
