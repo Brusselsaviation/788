@@ -1,5 +1,5 @@
-# 787-9 and -8
-Wingflex team 787-9 and -8 for x plane and msfs join our discord for updates.
+# Boeing 787-9 and -8
+Wingflex Team freeware 787-9 and -8 for X-Plane and MSFS. Join our discord for updates.
 
- **dicord**
+ **Discord:**
  https://discord.gg/49bDSp4d 
