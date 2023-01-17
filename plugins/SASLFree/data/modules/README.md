@@ -17,7 +17,7 @@ Creating a new script is pretty easy, but it's not only creating the script itse
 ```lua
 components = {
     ...
-    APtests
+    APtests {}
 }
 ```
 3. Describe and author(multiple people are allowed, Discord names are prefered but not required) the script by commenting at the top of the script.
