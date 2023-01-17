@@ -15,7 +15,7 @@ Creating a new script is pretty easy, but it's not only creating the script itse
 2. Add the script name to the array `components`in `main.lua`, **without file extension.**
 - Example:
 ```lua
-components {
+components = {
     ...
     APtests
 }
