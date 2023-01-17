@@ -5,10 +5,6 @@
 [WINGFLEX787 INFO]: [LUA]: loading	module
 [WINGFLEX787 INFO]: [LUA]: loading	tools
 [WINGFLEX787 INFO]: Module loaded
-[WINGFLEX787 WARN]: Enable/disable aircraft 3D panel usage explicitly (sasl.options.setAircraftPanelRendering)
-[WINGFLEX787 WARN]: Enable/disable 3D rendering explicitly (sasl.options.set3DRendering)
-[WINGFLEX787 WARN]: Enable/disable interactivity option explicitly (sasl.options.setInteractivity)
-[WINGFLEX787 INFO]: [LUA]: "module"	12010
-[WINGFLEX787 INFO]: [LUA]: "module"	/Users/duvbobruni/Library/Application Support/Steam/steamapps/common/X-Plane 12/
-[WINGFLEX787 INFO]: [LUA]: "module"	Mac
+[WINGFLEX787 INFO]: [LUA]: "module"	User is using X-Plane version	12010	at	/Users/duvbobruni/Library/Application Support/Steam/steamapps/common/X-Plane 12/	on	Mac
+[WINGFLEX787 INFO]: [LUA]: "module"	Aircraft located at	/Users/duvbobruni/Library/Application Support/Steam/steamapps/common/X-Plane 12/Aircraft/Wingflex/Wingflex-B787-9-B787-8
 [WINGFLEX787 INFO]: [LUA]: "tools"	All frequently used functions and variables loaded successfully
