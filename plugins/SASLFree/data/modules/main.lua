@@ -1,3 +1,5 @@
+require 'tools'
+
 --[[
     Script that initialises every component and more necessary stuff.
 

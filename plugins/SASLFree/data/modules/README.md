@@ -39,14 +39,10 @@ And that's it! You can now start coding in your new script.
 
 ![commentedFunctionExample](https://cdn.discordapp.com/attachments/1054156349568729139/1065010908717395999/image.png)
 
-### **Using variables from `tools.lua`**
+### **Using variables/functions from `tools.lua`**
 
-To simply use a variable located in `tools.lua` you need to nothing. All variables are global ones so no extra code is needed to get a variable from the script, e.g. the variable `XPV`
+Put `require 'tools'` at the top of the script and you should be able to call the variables/functinos.  e.g. the variable `XPV`
 
-
-### **Using functions from `tools.lua`**
-
-Calling a function from the script is a bit more difficult than variables but still pretty easy. You will need to add `require 'tools'` at the top of your script and you should be able to call every function without issues.
 
 ### **Creating new variables in `tools.lua`**
 
@@ -62,7 +58,7 @@ PlaneName = 'Boeing 787 Dreamliner'
 PlaneName = 'Boeing 787 Dreamliner' -- The name of the aircraft
 ```
 
-You can now call the variable from everywhere when you need it.
+You can now call the variable from everywhere when you need it(as long as you 'require' `tools.lua`).
 
 ### **Creating new functions in `tools.lua`**
 
